@@ -1,3 +1,7 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
 /Java/HolaMundo/nbproject/private/
 /Java/JavaApplication4/nbproject/private/
 /Java/Leccion1/Clase2Variables/nbproject/private/
