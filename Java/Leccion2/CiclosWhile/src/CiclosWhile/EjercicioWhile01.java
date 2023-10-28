@@ -18,9 +18,26 @@ public class EjercicioWhile01 {
         } while (contador <= 7);
         
         //Ciclo For 
+        //for (var contando = 0; contando < 7; contando++){
+        //    System.out.println("contando = " + contando);
+        //}
+        
+        //Palabras Break y Continue
         for (var contando = 0; contando < 7; contando++){
-            System.out.println("contando = " + contando);
+            if (contando % 2 == 0){
+                System.out.println("contando = " + contando);
+            break;  
+            }
         }
+        
+        //Continue
+        for (var contando = 0; contando < 7; contando++){
+            if (contando % 2 != 0){
+                continue; //Vamos por la siguiente iteración
+            }
+            System.out.println("contando = " + contando);
+        
+        }  
         
     }
 
