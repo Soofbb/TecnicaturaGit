@@ -5,6 +5,7 @@ luego ir pidiendo números indicando "es mayor" o
 "es menor" según sea mayor o menor con respecto a N 
 El proceso termina cuando el usuario acierta y mostramos
 el número de intents hechos.
+>>>>>> Scanner
 */
 package Ciclos05;
 
