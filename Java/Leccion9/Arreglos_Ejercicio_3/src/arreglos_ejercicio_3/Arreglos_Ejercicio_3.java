@@ -47,6 +47,6 @@ public class Arreglos_Ejercicio_3 {
             System.out.println("La media de los números negativos es: "+mediaNegativos);
         }
         
-        System.out.println("La cantidad de ceros es"+conteo0);
+        System.out.println(conteo0+"La cantidad de ceros es");
     }
 }
